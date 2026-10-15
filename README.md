@@ -4,7 +4,7 @@
 ## Miembros del grupo L5-AM-8
 | Integrantes |  |
 | :--- | :---: |
-| 1. Morilla Rodríguez, Jorge <br><br>2. Apellidos, Nombre <br><br>3. Diaz Aguilar, Miguel <br><br>4. Apellidos, Nombre | <!-- <img src="foto_grupo.jpg" height="300" alt="Grupo"> --> |
+| 1. Morilla Rodríguez, Jorge <br><br>2. Gallardo Carvajal, Miguel Ángel <br><br>3. Diaz Aguilar, Miguel <br><br>4. Apellidos, Nombre | <!-- <img src="foto_grupo.jpg" height="300" alt="Grupo"> --> |
 
 
 ---
